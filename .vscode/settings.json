@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/aditianand/anaconda3/bin/python",
+    "azureFunctions.deploySubpath": "URL_Download.zip",
+    "azureFunctions.pythonVenv": ".env",
+    "azureFunctions.projectLanguage": "Python",
+    "azureFunctions.projectRuntime": "~2",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "func: pack"
+}
